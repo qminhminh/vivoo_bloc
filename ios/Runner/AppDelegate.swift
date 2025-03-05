@@ -16,7 +16,7 @@ import WebRTC
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
         // Khởi tạo Firebase
-        FirebaseApp.configure()
+      //  FirebaseApp.configure()
         
         // Đặt mức log tối thiểu (chỉ cần một lần)
         RTCSetMinDebugLogLevel(.error)
