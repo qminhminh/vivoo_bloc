@@ -102,7 +102,7 @@
 		<key>com.google.firebase.messaging.auto_init_enabled</key>
 		<true/>
 		<key>com.google.firebase.messaging.default_notification_channel_id</key>
-		<string>channel_id_vivoo_all_platfrom</string>
+		<string>channel_id_vivoo_bloc</string>
 		<key>com.google.firebase.messaging.default_notification_icon</key>
 		<string>notification_icon</string>
 		<key>UIViewControllerBasedStatusBarAppearance</key>
